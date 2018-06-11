@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListarAluno</string>
+    <string name="lbNome">Nome</string>
+    <string name="lbMatricula">Matricula</string>
+    <string name="lbTelefone">Telefone</string>
+    <string name="lbEmail">Email</string>
+    <string name="lblSalvar">Salvar</string>
+    <string name="lblAlterar">Ediar</string>
+    <string name="lblExcluir">Excluir</string>
+    <string name="lblListar">Listar</string>
+</resources>
